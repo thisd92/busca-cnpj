@@ -1,0 +1,1 @@
+export const BASE_URL_WS = 'https://publica.cnpj.ws/cnpj'
